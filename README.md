@@ -1,7 +1,5 @@
 # Hi, I'm Dung 👋
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif"/>
-
 ## About
 
 - Electronics & Telecommunications student at UET – VNU Hanoi
